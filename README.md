@@ -83,11 +83,11 @@ Additional experiments, methodological improvements, and model extensions are ou
 
 ## Authors
 
-* **Samuel Darteh**
+* [**Samuel Darteh**](https://linkedin.com/in/sdartehpro)
 * Mohammed Sahidu Bah
 * Yaw Opoku Debrah
 
-Michigan Technological University
+**Affiliation:** [Michigan Technological University](https://mtu.edu)
 
 ## Research Paper
 
